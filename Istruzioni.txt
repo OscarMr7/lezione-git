@@ -1,3 +1,4 @@
 1. Benvenuti in classe
 2. Oggi facciamo una lezione s GITHUB
 3. Registrarsi a GITHUB
+4. Aggiungo il punto 4
